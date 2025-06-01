@@ -39,10 +39,6 @@ Exploratory Data Analysis (EDA) was performed using `Seaborn` and `Matplotlib`:
 - **Platform usage** distribution (Pie chart)
 - **WordCloud** for most frequent words in posts
 
-<div align="center">
-  <img src="images/sentiment_distribution.png" alt="Sentiment Distribution" width="400"/>
-  <img src="images/platform_pie.png" alt="Platform Usage" width="400"/>
-</div>
 
 ---
 
